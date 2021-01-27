@@ -1,0 +1,4 @@
+﻿  game.cpp
+c:\users\ezgi\source\repos\ceng241_gameproject\ceng241_gameproject\game.cpp(40): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ezgi\source\repos\ceng241_gameproject\ceng241_gameproject\game.cpp(47): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ceng241_gameProject.vcxproj -> C:\Users\ezgi\source\repos\ceng241_gameProject\Debug\ceng241_gameProject.exe
